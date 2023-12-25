@@ -9,6 +9,18 @@ The team behind the Pro Moderation Organization are very talented individuals br
 * Developer - [@theeuphoniumking](https://github.com/theeuphoniumking)
 * Head Moderator - Mr_Sl33p
 
+## Projects
+The Pro Moderation organization are responssible and currently working on these project's.
+
+* Pro Moderation [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1100594830511448094&permissions=1514781698263&scope=bot%20applications.commands)
+
+### Currently working on
+* MultiModeration Discord Bot
+
+# Contact Information
+You can contact our team on our [Discord server](https://discord.gg/FpbabhGXRU) or by DM'ing sharafzada, or MrRed on discord.
+
+*Please note any message's related to reporting bugs will be ignored please make a ticket for that*
 <!--
 
 **Here are some ideas to get you started:**
