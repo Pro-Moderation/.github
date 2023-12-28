@@ -8,7 +8,8 @@ The team behind the Pro Moderation Organization are very talented individuals br
 * Administrator & Developer - [@sharaalt](https://github.com/sharaalt)
 * Developer - [@theeuphoniumking](https://github.com/theeuphoniumking)
 * Developer - [@TANKBOI29](https://github.com/TANKBOI29)
-* Head Moderator - Mr_Sl33p
+* Moderation Team Manager - Mr_Sl33p
+* Support Team Manager - AlextheDemon 
 
 ## Projects
 The Pro Moderation organization are responssible and currently working on these project's.
