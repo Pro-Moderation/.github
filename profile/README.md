@@ -9,7 +9,9 @@ The team behind the Pro Moderation Organization are very talented individuals br
 * Developer - [@theeuphoniumking](https://github.com/theeuphoniumking)
 * Developer - [@TANKBOI29](https://github.com/TANKBOI29)
 * Moderation Team Manager - Mr_Sl33p
-* Support Team Manager - AlextheDemon 
+* Support Team Manager - AlextheDemon
+* QA Tester - UnknownJack 
+* QA Tester - onlynxt
 
 ## Projects
 The Pro Moderation organization are responssible and currently working on these project's.
