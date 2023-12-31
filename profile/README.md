@@ -4,9 +4,8 @@ Pro Moderation is a organization that specalize's in making discord moderation b
 ## The team
 The team behind the Pro Moderation Organization are very talented individuals brining you the best user experience and good support at all times.
 
-* Administrator - MrRed
 * Administrator & Developer - [@sharaalt](https://github.com/sharaalt)
-* Developer - [@theeuphoniumking](https://github.com/theeuphoniumking)
+* Head Developer - [@theeuphoniumking](https://github.com/theeuphoniumking)
 * Developer - [@TANKBOI29](https://github.com/TANKBOI29)
 * Moderation Team Manager - Mr_Sl33p
 * Support Team Manager - AlextheDemon
