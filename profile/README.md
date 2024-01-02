@@ -21,7 +21,7 @@ The Pro Moderation organization are responssible and currently working on these 
 * MultiModeration Discord Bot
 
 # Contact Information
-You can contact our team on our [Discord server](https://discord.gg/FpbabhGXRU) or by DM'ing sharafzada, or MrRed on discord.
+You can contact our team on our [Discord server](https://discord.gg/FpbabhGXRU) or by DM'ing sharafzada, or TheEuphoniumKing on discord.
 
 *Please note any message's related to reporting bugs will be ignored please make a ticket for that*
 <!--
